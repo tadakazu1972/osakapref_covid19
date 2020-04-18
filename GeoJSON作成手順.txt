@@ -1,0 +1,5 @@
+・shapeファイルをダウンロード
+・GDAL(Complete)をインストール
+・ogr2ogr -f GeoJSON 出力ファイル名　変換元のShapeファイル
+・https://smartosaka.azurewebsites.net/
+  で軽量化, export
